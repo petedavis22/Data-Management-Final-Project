@@ -5,7 +5,7 @@ I worked with a group of four to design an integrated data architecture system f
 The SQL code is under the file titled 'Final Code'.
 
 # Team Members
-Pete Davis
-Matthew Streichler
-Christian Lee
+Pete Davis\
+Matthew Streichler\
+Christian Lee\
 Joe Niehaus
