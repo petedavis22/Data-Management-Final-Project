@@ -6,6 +6,6 @@ The SQL code is under the file titled 'Final Code'.
 
 # Team Members
 Pete Davis\
-Matthew Streichler\
-Christian Lee\
-Joe Niehaus
+Matthew Streichler [LinkedIn](https://www.linkedin.com/in/matthew-streichler/) \
+Christian Lee [LinkedIn](https://www.linkedin.com/in/christiannlee/)\
+Joe Niehaus [LinkedIn](https://www.linkedin.com/in/josephniehaus/)
