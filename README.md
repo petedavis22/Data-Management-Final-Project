@@ -6,6 +6,6 @@ The code for our transactional applications is under the file name 'Transactiona
 
 # Team Members
 Pete Davis\
-Matthew Streichler [LinkedIn](https://www.linkedin.com/in/matthew-streichler/) \
+Matthew Streichler [LinkedIn](https://www.linkedin.com/in/matthew-streichler/) [Github](https://github.com/mstreichler) \
 Christian Lee [LinkedIn](https://www.linkedin.com/in/christiannlee/)\
 Joe Niehaus [LinkedIn](https://www.linkedin.com/in/josephniehaus/)
